@@ -1,4 +1,6 @@
 # README.md
 ## Git Tutorial
 
-  - feature-A
+ - feature-A
+ - fix-B
+
